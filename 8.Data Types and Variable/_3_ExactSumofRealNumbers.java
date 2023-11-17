@@ -14,3 +14,10 @@ public class _3_ExactSumofRealNumbers {
         System.out.println(result);
     }
 }
+//3
+//1000000000000000000
+//5
+//10
+//output
+//1000000000000000015
+
